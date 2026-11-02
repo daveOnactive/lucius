@@ -2,8 +2,6 @@
 
 Changes to the Lucius instruction pack are recorded here. Versions follow the [semantic versioning policy](README.md#versioning), and entry dates use UTC.
 
-## [Unreleased]
-
 ## [1.0.1] - 2026-11-02
 
 ### Added

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lucius-logo.png" alt="Julius Grimoire artwork used as the Lucius logo" width="160">
+  <img src="assets/lucius-logo.png" alt="Julius Grimoire artwork used as the Lucius logo" width="100">
 </p>
 
 <h1 align="center">Lucius</h1>
