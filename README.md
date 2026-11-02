@@ -6,7 +6,7 @@
 
 <p align="center">Portable, project-first guidance for deliberate software development.</p>
 
-Current version: [v1.0.0](VERSION) | [Changelog](CHANGELOG.md)
+Current version: [v1.0.1](VERSION) | [Changelog](CHANGELOG.md)
 
 Lucius is a software-developer instruction pack for AI coding assistants. It provides complementary frontend, backend, and full-stack guidance while preserving the target project's stack, conventions, and existing code.
 

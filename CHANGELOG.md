@@ -4,9 +4,15 @@ Changes to the Lucius instruction pack are recorded here. Versions follow the [s
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-02
+
 ### Added
 
 - Supplied Julius Grimoire artwork bundled as a local PNG README logo.
+
+### Changed
+
+- Allow task-scoped Graphify initialization when a substantive task needs it, while keeping CLI installation and project-document writes separately authorized.
 
 ## [1.0.0] - 2026-11-02
 
